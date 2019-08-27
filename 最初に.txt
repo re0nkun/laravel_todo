@@ -1,0 +1,5 @@
+$ valet start
+$ pg_ctl start -D /usr/local/var/postgres
+
+$ valet stop
+$ pg_ctl stop -D /usr/local/var/postgres
